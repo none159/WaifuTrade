@@ -13,7 +13,7 @@ module.exports = async (client, interaction) => {
             },
 
             {
-                name: 'age 2',
+                name: 'page 2',
                 value: 'trading related commands',
 
             },
